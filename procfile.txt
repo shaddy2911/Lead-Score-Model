@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run lead_score_v1.py
